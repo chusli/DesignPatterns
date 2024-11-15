@@ -1,4 +1,4 @@
-package org.example;
+package org.example.creational;
 
 public class Cat {
 
